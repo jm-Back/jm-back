@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=A3DCBE&height=200&section=header&text=Mini_min&animation=fadeIn&fontSize=50&fontColor=FF6666" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&customColorList=0,2,2,2,2,3&height=200&section=header&text=Mini_min&animation=fadeIn&fontSize=50&fontColor=FF6666" />
 
 ### Hi there 💖
 Welcome my Github! My name is mini_min.

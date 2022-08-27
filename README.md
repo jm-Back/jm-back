@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&customColorList=2,0,3&height=200&section=header&text=Mini_min&animation=fadeIn&fontSize=50&fontColor=FF6666" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Mini_min🕊️&animation=fadeIn&fontSize=50&fontColor=404040&fontAlignY=40" />
 
-### Hi there 💖
+# Hi there 💖
 Welcome my Github! My name is mini_min.
+꾸준함이 장점인 개발자 Mini min입니다. 
+##### 2022년, 지금부터 배운 내용 조금씩 기록해볼게요!
 
 
 <!--

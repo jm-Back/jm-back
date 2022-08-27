@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=A3DCBE&height=200&section=header&text=Mini_min&animation=fadeIn&fontSize=50&fontColor=FF6666" />
 
 ### Hi there 💖
-Welcome my Github!
+Welcome my Github! My name is mini_min.
 
 <!--
 **jm-Back/jm-back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

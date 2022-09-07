@@ -6,6 +6,7 @@ Welcome my Github! My name is mini_min.
 꾸준함이 장점인 개발자 Mini min입니다. 
 - 🔛 java
 - 🔛 Oracle
+- 🔛 HTML/CSS
 
 ##### 2022년, 지금부터 배운 내용 조금씩 기록해볼게요!
 

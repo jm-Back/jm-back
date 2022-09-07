@@ -2,6 +2,7 @@
 
 # Hi there 💖
 Welcome my Github! My name is mini_min.
+<br>
 꾸준함이 장점인 개발자 Mini min입니다. 
 - 🔛 java
 - 🔛 Oracle

@@ -4,11 +4,8 @@
 Welcome my Github! My name is mini_min.
 <br>
 꾸준함이 장점인 개발자 Mini min입니다. 
-- 🔛 java
-- 🔛 Oracle
-- 🔛 HTML/CSS
 
-##### 2022년, 지금부터 배운 내용 조금씩 기록해볼게요!
+##### 2022년~ 티스토리와 깃허브에 스터디한 내용 기록중
 
 
 <!--

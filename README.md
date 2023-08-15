@@ -3,7 +3,7 @@
 
 ## 👋🏻 Hi! I'm mini_min   
 
-##### 💜 I'm going to commit everything! ✍🏻 
+##### 💜 I'm going to record everything I've studied! ✍🏻 
 ##### follow me! 😘 
 
   

@@ -18,8 +18,8 @@
 <br>
 
 <div float="left">
-
+  
 ![jm-back's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm-back&text_bold=false&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-back&theme=buefy&layout=compact)](https://github.com/jm-back)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-back&theme=buefy&layout=donut)](https://github.com/jm-back)
 
 </div>

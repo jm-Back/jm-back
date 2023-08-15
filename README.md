@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/backshren20@gmail.com-FF4500?style=flat&logo=gmail&logoColor=FFFFFF"/>
 
 
-##### 💪🏻 There are daily blog and study blog.
+##### 💪🏻 There are daily blog and study blog. Feel free to take a look!
 
 <br>
 

@@ -1,11 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Mini_min🕊️&animation=fadeIn&fontSize=50&fontColor=FFFFFF&fontAlignY=40" />
 
-# Hi there 💖
+# 안녕하세요! 👋🏻
 Welcome my Github! My name is mini_min.
 <br>
-꾸준함이 장점인 개발자 Mini min입니다. 
+'무엇이든 끝을 보는 성격'이 가장 큰 장점인 파워J **백엔드 개발자 백정민**입니다. 
 
-##### 2022년~ 티스토리와 깃허브에 스터디한 내용 기록중
+
+##### 💪🏻 티스토리와 깃허브는 알고리즘 & 이론 **기록용으로 사용중입니다!**
 
 
 <!--

@@ -1,26 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Mini_min🕊️&animation=fadeIn&fontSize=50&fontColor=FFFFFF&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=E6E6FA&height=100&section=header&text=mini_min🕊️&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=55" />
 
-# 안녕하세요! 👋🏻
-Welcome my Github! My name is mini_min.
+
+## 👋🏻 Hi! I'm mini_min   
+
+##### 💜 I'm going to commit everything! ✍🏻 
+##### follow me! 😘 
+
+  
+
+<a href="https://backshren20.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory BLOG-6A5ACD?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/backshren20" target="_blank"><img src="https://img.shields.io/badge/naver BLOG-daily BLOG?style=flat&logo=naver&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/backshren20@gmail.com-FF4500?style=flat&logo=gmail&logoColor=FFFFFF"/>
+
+
+##### 💪🏻 There are daily blog and study blog.
+
 <br>
-'무엇이든 끝을 보는 성격'이 가장 큰 장점인 파워J **백엔드 개발자 백정민**입니다. 
 
+<div float="left">
 
-##### 💪🏻 티스토리와 깃허브는 알고리즘 & 이론 **기록용으로 사용중입니다!**
+![jm-back's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm-back&text_bold=false&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-back&theme=buefy&layout=compact)](https://github.com/jm-back)
 
-
-<!--
-**jm-Back/jm-back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</div>

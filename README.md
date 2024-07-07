@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=E6E6FA&height=100&section=header&text=mini_min🕊️&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=E6E6FA&height=100&section=header&text=Hello, I'm jeong min Baek. 🐣&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=55" />
 
 
 ## 👋🏻 Hi! I'm mini_min   

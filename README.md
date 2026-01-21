@@ -1,11 +1,10 @@
 
 
-## 👋🏻 Hi! I'm mini_min   
+## 🍀 성장하는게 주특기인 개발자 입니다.  
 
-##### 💜 I'm going to record everything I've studied! ✍🏻 
-##### follow me! 😘 
+##### 10년차 네이버 블로그 운영하며 쌓은 `기록의 습관` ✍🏻 
+##### 이제는 깃허브로 넘어와서 성장한 저의 모습을 기록하고 있습니다. 
 
-  
 
 <a href="https://backshren20.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory BLOG-6A5ACD?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://blog.naver.com/backshren20" target="_blank"><img src="https://img.shields.io/badge/naver BLOG-daily BLOG?style=flat&logo=naver&logoColor=FFFFFF"/></a>
